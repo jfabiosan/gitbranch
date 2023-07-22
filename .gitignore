@@ -1,0 +1,2 @@
+#ignorar arquivos com extensao .a
+*.a
